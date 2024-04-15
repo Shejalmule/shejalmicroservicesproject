@@ -1,0 +1,8 @@
+com\school\SchoolService\schooldao\SchoolDao.class
+com\school\SchoolService\schoolserviceimp\SchoolServiceImp.class
+com\school\SchoolService\entity\School.class
+com\school\SchoolService\schoolldaoimp\SchoolDaoImp.class
+com\school\SchoolService\schoolcontroller\SchoolController.class
+com\school\SchoolService\schoolservice\SchoolService.class
+com\school\SchoolService\schooljparepository\SchoolJPARepository.class
+com\school\SchoolService\SchoolServiceApplication.class

@@ -1,0 +1,8 @@
+com\student\StudentService\StudentServiceApplication.class
+com\student\StudentService\studentservice\StudentService.class
+com\student\StudentService\studentserviceimp\StudentServiceImp.class
+com\student\StudentService\studentdaoimp\StudentDaoImp.class
+com\student\StudentService\entity\Student.class
+com\student\StudentService\studentdao\StudentDao.class
+com\student\StudentService\jparepository\StudentJPARepository.class
+com\student\StudentService\studentcontroller\StudentController.class
